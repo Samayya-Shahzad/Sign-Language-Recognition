@@ -1,5 +1,3 @@
-# Sign-Language-Recognition
-
 # American Sign Language Recognition System 
 
 A deep learning-based system for recognizing American Sign Language (ASL) gestures using a combination of **Convolutional Neural Networks (CNN)** for Alphabets and numbers, **Multi-Layer Perceptrons (MLP)** for static two-hand gestures, and **Long Short-Term Memory (LSTM)** networks for dynamic sign recognition.
